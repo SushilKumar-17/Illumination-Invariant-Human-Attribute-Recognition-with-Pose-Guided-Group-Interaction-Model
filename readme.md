@@ -58,7 +58,7 @@ Instead of only detecting people, the system analyzes scene context and group pa
 ## System Architecture
 
 <div align="center">
-  <img src="assets/architecture.png" width="700"/>
+  <img src="assets/architecture.png" width="400"/>
 </div>
 
 The architecture integrates detection, tracking, attribute extraction, and contextual reasoning into a unified pipeline for real-time monitoring.
@@ -68,7 +68,7 @@ The architecture integrates detection, tracking, attribute extraction, and conte
 ## Processing Pipeline
 
 <div align="center">
-  <img src="assets/pipeline.png" width="800"/>
+  <img src="assets/pipeline.png" width="1200"/>
 </div>
 
 ### Workflow
