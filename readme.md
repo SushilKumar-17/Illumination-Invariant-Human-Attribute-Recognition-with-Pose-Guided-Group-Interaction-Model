@@ -156,7 +156,7 @@ The system only assists human operators by highlighting important scenarios.
 - Sushant Mahajan
 - Parth Atal
 - Vansh Rana
-- Preeti Khera
+- Dr. Preeti Khera
 
 ---
 
